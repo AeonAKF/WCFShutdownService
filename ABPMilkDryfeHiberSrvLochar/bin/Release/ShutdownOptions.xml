@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShutdownOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Guid>00000000-0000-0000-0000-000000000000</Guid>
+  <ShutdownAction>Hibernate</ShutdownAction>
+</ShutdownOptions>
